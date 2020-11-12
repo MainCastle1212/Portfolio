@@ -51,7 +51,7 @@ ___
   - [Unityの教科書 Unity 2020完全対応版](https://www.sbcr.jp/product/4815606657/)で作成したゲーム
   - テキストのゲームからFPSに変更を行いオリジナリティをだした。
   
-   <img src="https://user-images.githubusercontent.com/74229194/98925660-9ccca700-2519-11eb-9ef2-12b374cb18b3.png" width="240px">
+   <img src="https://user-images.githubusercontent.com/74229194/98925660-9ccca700-2519-11eb-9ef2-12b374cb18b3.png" width="320px">
   
 ___
 ### **CatchingFruits**[リポジトリ](https://github.com/202004g07/CatchingFruits)
@@ -59,6 +59,10 @@ ___
   - UIや背景，カメラの位置などプレイヤーに優しいわかりやすいゲームを目指して調整を行った。
   - ランダムで落ちてくる爆弾など、パラメータの調整の難しさを学ぶ。
   - シーンチェンジを用いずに、一つのシーンだけでタイトル・ゲーム・ゲームオーバーシーンを作成することを目標に
+  
+  ![image](https://user-images.githubusercontent.com/74229194/98926875-32b50180-251b-11eb-98df-77d38c25ff0e.png) 
+  ![image](https://user-images.githubusercontent.com/74229194/98927013-5a0bce80-251b-11eb-99a0-3136af76242d.png)
+
 
 ___
 
@@ -74,4 +78,3 @@ ___
 - 2017/3 大学卒
 - ~2020/4 フリーター
 - 2020/4~11 職業訓練校・ゲームプログラマー養成科修了
-w
