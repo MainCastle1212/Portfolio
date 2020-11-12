@@ -50,7 +50,9 @@ ___
 ### **IGAGuri** [リポジトリ](https://github.com/202004g07/IGAguri)
   - [Unityの教科書 Unity 2020完全対応版](https://www.sbcr.jp/product/4815606657/)で作成したゲーム
   - テキストのゲームからFPSに変更を行いオリジナリティをだした。
-
+  
+   <img src="https://user-images.githubusercontent.com/74229194/98925660-9ccca700-2519-11eb-9ef2-12b374cb18b3.png" width="240px">
+  
 ___
 ### **CatchingFruits**[リポジトリ](https://github.com/202004g07/CatchingFruits)
   - [Unityの教科書 Unity 2020完全対応版](https://www.sbcr.jp/product/4815606657/)で作成したゲーム
