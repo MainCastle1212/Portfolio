@@ -23,27 +23,34 @@
   - **操作感**: ”動かしていて楽しい”は遊ぶ理由になりえる。ストレスをかける場合はバランスをしっかりとる。
 
 ## 制作物(新しいもの順)
-- **EverythingEater** [リポジトリ](https://github.com/202004g07/EverythingEater/invitations)
+### EverythingEater [リポジトリ](https://github.com/202004g07/EverythingEater/invitations)
   - 職業訓練校で作成、「すべてを食べられる」をコンセプトに企画を立てUnityでゲームを作成した。
-- **UnityShooting** [リポジトリ](https://github.com/202004g07/UnityShooting)
+  <img src="https://user-images.githubusercontent.com/74229194/98914961-a56ab080-250c-11eb-92ee-645c683aad3f.png" width="320px">
+  
+### UnityShooting [リポジトリ](https://github.com/202004g07/UnityShooting)
+  <img src= "https://user-images.githubusercontent.com/74229194/98915795-b962e200-250d-11eb-8340-21f250febfa3.png" width="320px">
+  
   - 訓練校で作成、WindowsFormAppで作成したシューティングゲームをUnityへ移植を行った。
   - 射撃時の気持ちよさとDotWeenでの演出を重視して作成。
-  - WindowsFormApp版 [リポジトリ](https://github.com/202004g07/Games/tree/master/2DShootingGame)
-- **IGAGuri** [リポジトリ](https://github.com/202004g07/IGAguri)
+  - WindowsFormApp版 [リポジトリ](https://github.com/202004g07/Games/tree/master/2DShootingGame)  
+### IGAGuri [リポジトリ](https://github.com/202004g07/IGAguri)
   - [Unityの教科書 Unity 2020完全対応版](https://www.sbcr.jp/product/4815606657/)で作成したゲーム
   - テキストのゲームからFPSに変更を行いオリジナリティをだした。
-- **CatchingFruits**[リポジトリ](https://github.com/202004g07/CatchingFruits)
+  
+### CatchingFruits[リポジトリ](https://github.com/202004g07/CatchingFruits)
   - [Unityの教科書 Unity 2020完全対応版](https://www.sbcr.jp/product/4815606657/)で作成したゲーム
   - UIや背景，カメラの位置などプレイヤーに優しいわかりやすいゲームを目指して調整を行った。
   - ランダムで落ちてくる爆弾など、パラメータの調整の難しさを学ぶ。
   - シーンチェンジを用いずに、一つのシーンだけでタイトル・ゲーム・ゲームオーバーシーンを作成することを目標に
-- **CollectTime** 
+  
+### CollectTime 
   - 「制限時間」を「集める」ゲーム
   - 訓練校を受講する5人で初めてのチーム制作を行った。
   - GithubのPullRequestsやIssues, Projectを用いてバージョン管理を行い、一つのプロジェクトを完成させた。
   - コンフリクトやその解消方法、原因を学ぶ。
   - 制作物のイメージの共有の大切さを学ぶ。　
-- **その他**
+  
+## その他
   - WindowsFormAppをいくつか作成。
     - COVID-19のAPIを利用して感染者を表示
     - 電話帳 テキストファイルへの書き出し読み出し
@@ -54,3 +61,4 @@
 - 2017/3 大学卒
 - ~2020/4 フリーター
 - 2020/4~11 職業訓練校・ゲームプログラマー養成科修了
+w
