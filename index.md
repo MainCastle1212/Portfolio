@@ -44,6 +44,8 @@ ___
   - コンフリクトやその解消方法、原因を学ぶ。
   - 制作物のイメージの共有の大切さを学ぶ。　
   
+  ![TeamGitGraph](https://user-images.githubusercontent.com/74229194/98923109-9426a180-2516-11eb-96ae-a252b86bbb47.png)
+  
 ___
 ### **IGAGuri** [リポジトリ](https://github.com/202004g07/IGAguri)
   - [Unityの教科書 Unity 2020完全対応版](https://www.sbcr.jp/product/4815606657/)で作成したゲーム
@@ -58,7 +60,7 @@ ___
 
 ___
 
-## **その他**
+### **その他**
   - WindowsFormAppをいくつか作成。
     - COVID-19のAPIを利用して感染者を表示
     - 電話帳 テキストファイルへの書き出し読み出し
