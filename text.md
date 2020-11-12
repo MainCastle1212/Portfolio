@@ -25,6 +25,7 @@
 ## 制作物(新しいもの順)
 ### **EverythingEater** [リポジトリ](https://github.com/202004g07/EverythingEater/invitations)
   - 職業訓練校で作成、「すべてを食べられる」をコンセプトに企画を立てUnityでゲームを作成した。
+  
   <img src="https://user-images.githubusercontent.com/74229194/98914961-a56ab080-250c-11eb-92ee-645c683aad3f.png" width="320px">
   
 ___ 
