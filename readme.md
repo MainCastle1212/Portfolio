@@ -72,7 +72,25 @@ ___
     - 電話帳 テキストファイルへの書き出し読み出し
     -  SBgame ストライクボールゲーム 4桁の数字を当てるゲーム, プレイヤーに優しいUIを目指して作成  
   などなど
+___
 
+### **スキル**
+  - プログラミング言語
+    - C
+    - C#
+    - Javascript
+  - ゲームエンジン
+    - Unity
+    - UnrealEngine
+  - 統合開発環境
+    - VisualStudio
+    - VisualStudioCode
+    - Exlipce
+  - その他
+    - Git
+      - GithubDecktop (CUIでの操作経験はありません)
+    - チームウェア
+      - サイボウズ
 ___
 ## 経歴
 - 2017/3 大学卒
